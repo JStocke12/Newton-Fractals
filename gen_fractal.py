@@ -1,5 +1,4 @@
 from PIL import Image
-import cmath
 
 width = 1024
 height = 1024
